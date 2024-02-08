@@ -1,4 +1,8 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Developed with [Next.js](https://nextjs.org/) project. This project about searching all movies around the world via [API](https://themoviedborg).
+
+## Tech Stack
+
+Next.js, Typescript, Tailwindcss
 
 ## Getting Started
 
