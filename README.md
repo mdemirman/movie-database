@@ -1,4 +1,4 @@
-Developed with [Next.js](https://nextjs.org/) project. This project about searching all movies around the world via [API](https://themoviedb.org).
+Developed with [Next.js](https://nextjs.org/) project. This project about searching and listing all movies around the world via [API](https://themoviedb.org). This project allows to provide detailed information about movies.
 
 ## Tech Stack
 
